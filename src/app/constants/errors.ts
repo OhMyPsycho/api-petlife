@@ -1,0 +1,2 @@
+export const NOT_TOKEN_FOUND = 'NOT_TOKEN_FOUND';
+// export const ERROR_TO_SAVE_DATA = 'ERROR_TO_SAVE_DATA';
